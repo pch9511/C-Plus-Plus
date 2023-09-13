@@ -1,0 +1,4 @@
+﻿  소스.cpp
+d:\박찬혁\chap 19\그림맞추기\그림맞추기\소스.cpp(70): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  그림맞추기.vcxproj -> D:\박찬혁\Chap 19\그림맞추기\Debug\그림맞추기.exe
+  그림맞추기.vcxproj -> D:\박찬혁\Chap 19\그림맞추기\Debug\그림맞추기.pdb (Full PDB)
